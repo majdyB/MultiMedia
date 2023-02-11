@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\bin\Debug\FirstMM_HW.exe.config
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\bin\Debug\FirstMM_HW.exe
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\bin\Debug\FirstMM_HW.pdb
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\obj\Debug\FirstMM_HW.image_fourm.resources
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\obj\Debug\FirstMM_HW.Properties.Resources.resources
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\obj\Debug\image_proccesing.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\obj\Debug\FirstMM_HW.exe
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\obj\Debug\FirstMM_HW.pdb
+C:\Users\pc\Desktop\majdyHw\FirstMM_HW\FirstMM_HW\obj\Debug\image_proccesing.csprojResolveAssemblyReference.cache

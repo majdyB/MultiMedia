@@ -1,0 +1,26 @@
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.exe
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\bin\Debug\NAudio.dll
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\bin\Debug\NAudio.xml
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.FrmAudio.resources
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.exe
+c:\users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.pdb
+C:\Users\pc\documents\visual studio 2015\Projects\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.volumControl.resources
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.exe.config
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.exe
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.pdb
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.exe
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.pdb
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\bin\Debug\NAudio.xml
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.FrmAudio.resources
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.Properties.Resources.resources
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.volumControl.resources
+C:\Users\pc\Desktop\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\majdyHw\Audio_Processing\Audio_Processing\bin\Debug\Audio_Processing.exe.config
+C:\Users\pc\Desktop\majdyHw\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.exe
+C:\Users\pc\Desktop\majdyHw\Audio_Processing\Audio_Processing\obj\Debug\Audio_Processing.pdb
